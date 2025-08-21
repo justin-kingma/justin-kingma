@@ -5,7 +5,7 @@ My experience ranges from troubleshooting complex hardware/software in advanced 
 
 Lately, I’ve been expanding my skills in web development, with a focus on clean, accessible, and user-centered design. I enjoy problem-solving, learning new technologies, and contributing to projects that make an impact.  
 
-🌐 Learn more about me: [justinkingma.com](https://justinkingma.com)
+🌐 Learn more about me: [justinkingma.dev](https://justinkingma.dev)
 
 <!--
 **justin-kingma/justin-kingma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
