@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi, I’m Justin 👋
+
+I’m a Support Engineer with a background spanning robotics, systems, and web development.  
+My experience ranges from troubleshooting complex hardware/software in advanced robotics to helping teams adopt modern digital tools.  
+
+Lately, I’ve been expanding my skills in web development, with a focus on clean, accessible, and user-centered design. I enjoy problem-solving, learning new technologies, and contributing to projects that make an impact.  
+
+🌐 Learn more about me: [justinkingma.com](https://justinkingma.com)
 
 <!--
 **justin-kingma/justin-kingma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
